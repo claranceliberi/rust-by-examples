@@ -7,4 +7,4 @@ This docs originally came from [rust by examples](https://doc.rust-lang.org/stab
 
 
 ### Contribution
-Contributions are always welcome to the repo , just your help are welcomed
+Contributions are always welcome to the repo , your precious help are welcomed
