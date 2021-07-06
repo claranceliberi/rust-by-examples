@@ -1,0 +1,1 @@
+please read this 2 min [doc](https://doc.rust-lang.org/stable/rust-by-example/cargo/build_scripts.html)
