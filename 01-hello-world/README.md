@@ -1,0 +1,1 @@
+This unit focuses on hello world project that introduces you to rust world, i am sure you'll get excited. can't wait to see you get started 😎.

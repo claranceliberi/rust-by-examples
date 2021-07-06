@@ -1,0 +1,1 @@
+Dive deep in type casting, know how rust incredebly change types from one to another

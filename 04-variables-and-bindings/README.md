@@ -1,0 +1,1 @@
+Just all about how you will use your variables, where to use them , where can you access them and variables binding incompatability.

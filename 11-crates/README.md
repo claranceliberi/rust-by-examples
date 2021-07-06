@@ -1,0 +1,1 @@
+A crate is a compilation unit in Rust. excited to know more ? dive in this module 😊👌. or take a look at [this](https://doc.rust-lang.org/stable/rust-by-example/crates.html)

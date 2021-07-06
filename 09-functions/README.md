@@ -1,0 +1,1 @@
+Know how functions in rust works.

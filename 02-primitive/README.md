@@ -1,0 +1,1 @@
+Get introduced to rust primitive data types generally you'll know how `intergers`, `string` and other compound data types like `array` or `tuples` are used in rust.

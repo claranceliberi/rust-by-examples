@@ -1,0 +1,1 @@
+Rust custom types , are data types that you create your self just to represent certain data information, with the help of `struct` and `enum` in rust you can create your own data types.
